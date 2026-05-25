@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nobel/Downloads/2026 春季学期/Learning cpp/LearningCPP/day07/day07_Const",
+      "program": "/Users/nobel/Downloads/2026 春季学期/Learning cpp/LearningCPP/day07/day07_Const/build/Debug/outDebug"
+    }
+  ]
+}
