@@ -17,7 +17,7 @@ private:
     Example m_Example;
 public:
      Entity()
-     : m_Name("Unknown"),m_Example(8){}
+     : m_Name("Unknown"),m_Example(8){}//需要按顺序写
 
 
     Entity(const std::string& name)
